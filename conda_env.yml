@@ -1,0 +1,18 @@
+name: dopp_env
+channels:
+  - defaults
+  - noemicazzaniga
+dependencies:
+  - python=3.8
+  - eurostat=1.1.1
+  - pandas
+  - scikit-learn
+  - pytorch
+  - seaborn
+  - nltk
+  - requests
+  - beautifulsoup4
+  - jupyter
+  - ipykernel
+  - pip:
+      - transformers==4.2.0
