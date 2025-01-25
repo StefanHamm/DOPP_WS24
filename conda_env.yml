@@ -18,3 +18,4 @@ dependencies:
   - pip:
       - transformers==4.2.0
       - wget
+      - statsmodels
