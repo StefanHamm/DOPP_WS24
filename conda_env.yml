@@ -6,7 +6,6 @@ dependencies:
   - python=3.8
   - eurostat=1.1.1
   - pandas
-  - openpyxl
   - scikit-learn
   - pytorch
   - seaborn
@@ -15,7 +14,9 @@ dependencies:
   - beautifulsoup4
   - jupyter
   - ipykernel
+  - openpyxl
   - pip:
       - transformers==4.2.0
       - wget
       - statsmodels
+      - pycountry
