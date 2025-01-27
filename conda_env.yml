@@ -20,3 +20,4 @@ dependencies:
       - wget
       - statsmodels
       - pycountry
+      - pycountry_convert
